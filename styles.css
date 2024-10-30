@@ -1,7 +1,8 @@
 body {
     text-align: center;
     margin: 0;
-    background-image: url(https://m.media-amazon.com/images/I/614hNlUI0jL._AC_UF894,1000_QL80_.jpg); background-attachment: fixed; background-size: cover; margin: auto; font-family: kanit; font-size:17px; justify-content: center; align-items: center;
+    background-image: url(https://images3.alphacoders.com/117/117297.jpg); background-attachment: fixed; background-size: cover;  background-color: rgba(255,255,255,0.7);
+      background-blend-mode: lighten;margin: auto; font-family: kanit; font-size:17px; justify-content: center; align-items: center;
   }
   
   main {justify-content: center; align-items: center; background-color: rgba(255, 255, 255, .9); width: 680px; margin: auto; padding-left:50px;padding-right:50px; padding-bottom:200px; overflow: hidden;}
