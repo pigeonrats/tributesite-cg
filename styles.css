@@ -5,7 +5,7 @@ body {
       background-blend-mode: lighten;margin: auto; font-family: kanit; font-size:17px; justify-content: center; align-items: center;
   }
   
-  main {justify-content: center; align-items: center; background-color: rgba(255, 255, 255, .8); width: 680px; margin: auto; padding-left:50px;padding-right:50px; padding-bottom:50px; overflow: hidden;}
+  main {justify-content: center; align-items: center; background-color: rgba(255, 255, 255, .8); width: 680px; margin: auto; padding-left:50px; padding-right:50px; overflow: hidden;}
   
   h1 {font-family: Maitree;font-size:60px;color:#6E4791; margin-bottom:-20px;}
   h2 {font-family: Maitree;font-size:40px;color:#6E4791;}
@@ -95,6 +95,8 @@ body {
   
   img {display:block; max-width:100%; height:auto; margin: 0 auto;}
   
+.imgcaption {font-size:13px;}
+
   ul {list-style-type: none;text-align:left;}
   
   li {padding-bottom: 20px;padding-right: 10px;}
