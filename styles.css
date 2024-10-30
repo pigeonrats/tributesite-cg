@@ -1,0 +1,131 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-image: url(https://m.media-amazon.com/images/I/614hNlUI0jL._AC_UF894,1000_QL80_.jpg); background-attachment: fixed; background-size: cover; margin: auto; font-family: kanit; font-size:17px; justify-content: center; align-items: center;
+  }
+  
+  main {justify-content: center; align-items: center; background-color: rgba(255, 255, 255, .9); width: 680px; margin: auto; padding-left:50px;padding-right:50px; padding-bottom:200px; overflow: hidden;}
+  
+  h1 {font-family: Maitree;font-size:60px;color:#6E4791; margin-bottom:-20px;}
+  h2 {font-family: Maitree;font-size:40px;color:#6E4791;}
+  h3 {font-family: Maitree;font-size:20px;}
+  h4 {font-family: Maitree;font-size:20px; color:#6E4791; margin-bottom:0px;}
+  
+  .container {overflow: hidden; height: 1200px; margin:30px;}
+  
+  #about {height: 1200px; overflow: hidden; padding-top: 250px;}
+  
+  #about a {font-size: 20px; font-family: kanit; padding:10px;}
+  
+  #about a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  #about a:visited {
+    color: #AC9EB9;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  #about a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  #about a:active {
+    color: #6E4791;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  #career {height: 1200px; overflow: hidden; padding-top: 250px;}
+  
+  #gallery {height: 1200px; overflow: hidden; padding-top: 250px;}
+  
+  .barart {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%; height: 250px; z-index:8;
+    border-bottom: 10px black;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: rgba(172, 158, 185, .6);
+    position: fixed;
+    top: 0;
+    width: 100%; height: 50px; z-index:25; padding-top:10px; margin-top:190px; filter: drop-shadow(0px 5px 5px #E3C2FF);
+  }
+  
+  
+  a {font-size: 30px; font-family: kanit; padding:10px;}
+  
+  
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: #6E4791;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .card {display:block; height:400px; margin: 0 auto;}
+  
+  
+  img {display:block; max-width:100%; height:auto; margin: 0 auto;}
+  
+  ul {list-style-type: none;text-align:left;}
+  
+  li {padding-bottom: 20px;padding-right: 10px;}
+  
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+  
+  hr {
+    height: 5px;
+    width: 627px;
+    background-color: #AC9EB9;
+    margin-top:20px;
+  }
+  
+  .galleryone {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 10px;
+  }
+  
+  .galleryone img {
+    width: 100%;
+    max-width: 250px;
+    height: 250px;
+    border-radius: 10px;
+  }
